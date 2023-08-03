@@ -125,7 +125,7 @@
 
 <img align="center" src="./components/titles/pt_br/contate_me.png" width="100%" alt="Título da seção Contato" />
 <div align="center"> 
-<a href = "https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:mauriciowyatt16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maur%C3%ADcio-wyatt-3229aa253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 <br/><br/>
